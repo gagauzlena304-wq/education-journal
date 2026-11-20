@@ -1,0 +1,11 @@
+student_id,lesson_id,status
+1,1,present
+1,2,present
+2,1,present
+2,2,present
+3,3,present
+3,4,present
+4,3,present
+4,4,absent
+5,5,present
+6,5,excused

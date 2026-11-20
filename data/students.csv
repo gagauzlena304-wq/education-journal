@@ -1,0 +1,7 @@
+id,group_id,full_name,admission_date,email,phone,initial_average_hundredths
+1,1,Соколова Анна Игоревна,2025-09-01,anna.sokolova@example.com,,
+2,1,Орлов Максим Денисович,2025-09-01,maxim.orlov@example.com,,
+3,2,Миронова Елена Павловна,2025-09-01,elena.mironova@example.com,,
+4,2,Волков Артём Олегович,2025-09-01,artem.volkov@example.com,,
+5,3,Лебедева Мария Андреевна,2025-09-01,maria.lebedeva@example.com,,400
+6,3,Ким Даниил Сергеевич,2025-09-01,daniil.kim@example.com,,
